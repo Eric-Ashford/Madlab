@@ -1,0 +1,9 @@
+G:\Programming\TrueFinal\ExtraCreditEric\ExtraCreditEric\bin\Debug\ExtraCreditEric.exe.config
+G:\Programming\TrueFinal\ExtraCreditEric\ExtraCreditEric\bin\Debug\ExtraCreditEric.exe
+G:\Programming\TrueFinal\ExtraCreditEric\ExtraCreditEric\bin\Debug\ExtraCreditEric.pdb
+G:\Programming\TrueFinal\ExtraCreditEric\ExtraCreditEric\obj\Debug\ExtraCreditEric.csprojResolveAssemblyReference.cache
+G:\Programming\TrueFinal\ExtraCreditEric\ExtraCreditEric\obj\Debug\ExtraCreditEric.exe
+G:\Programming\TrueFinal\ExtraCreditEric\ExtraCreditEric\obj\Debug\ExtraCreditEric.pdb
+F:\Programming\CSharp\ForClass\TrueFinal\ExtraCreditEric\ExtraCreditEric\bin\Debug\ExtraCreditEric.exe.config
+F:\Programming\CSharp\ForClass\TrueFinal\ExtraCreditEric\ExtraCreditEric\obj\Debug\ExtraCreditEric.exe
+F:\Programming\CSharp\ForClass\TrueFinal\ExtraCreditEric\ExtraCreditEric\obj\Debug\ExtraCreditEric.pdb
